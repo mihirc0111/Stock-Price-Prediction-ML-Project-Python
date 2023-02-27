@@ -70,10 +70,15 @@
 > #Here are some major highlights from the data exploration section:
 
 > #2019: Before the pandemic, most of the companies stocks were doing relatively well with Apple and Microsoft taking the lead and Pfizer trailing behind.
+> 
 > #2020: On the onset of the pandemic around Spring, there was a fall in stock prices for all the companies, but afterwards the technology companies like Amazon, Apple, Microsoft and Google started to grow again. But companies like Pfizer, Ford and S&P 500 did not do very well especially Ford.
+> 
 > #2021: As the vaccine rollout began and the lockdown began to be lifted, there was significant growth in the stock prices of Ford in particular given its very stock prices which was low in 2020 due to the pandemic. Companies like Google and Microsoft,S&P 500 also grew. Overall there was an improvement in the stock prices of all the companies we considered.
+> 
 > #Difficulties encountered
+> 
 > #Getting the data from yahoo fincance wasn't very obvious. After several research I was able to find an article that guided me on how to obtain the data.
+> 
 > #In the modelling part (particularly the LSTM), one would have to spend some time tuning the parameters and training it to get the best results.
 
 
