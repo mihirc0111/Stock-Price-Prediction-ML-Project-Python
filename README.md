@@ -3,7 +3,7 @@
 
 #### Graph of Stock Prices with Time
 
-<img src="https://user-images.githubusercontent.com/84846378/221657783-778a917d-87db-4df4-af1f-e5cc5c8e84dd.png49fc-8b17-c222706265fa.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/84846378/221657783-778a917d-87db-4df4-af1f-e5cc5c8e84dd.png" width="50%" height="50%">
 
 #### Comparison of Prices of SPY vs AAPL vs MSFT vs Amazon vs JNJ vs PFE vs F vs Google
 
@@ -81,5 +81,16 @@
 > 
 > #In the modelling part (particularly the LSTM), one would have to spend some time tuning the parameters and training it to get the best results.
 
+### Continued development
 
+I would like to learn futher advance techniques which will help my model to reduce the mean absolute error.
+
+#### Author
+
+LinkedIn - [Mihir Chavan](https://www.linkedin.com/in/mihir-chavan-643615234/)
+Github - [@mihirc0111](https://github.com/mihirc0111)
+
+#### Acknowledgments
+
+I learned ML from acmegrade modules of Sir Noble Xavier.
 
