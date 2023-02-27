@@ -27,9 +27,7 @@
 #### Effect of pandemic on stock prices
 
 <img src="https://user-images.githubusercontent.com/84846378/221660245-d0bf2209-1a44-4e1d-a726-da43c7eb2a84.png" width="50%" height="50%">
-...
 <img src="https://user-images.githubusercontent.com/84846378/221660563-ed791c6e-0960-4466-8c52-904294435041.png" width="50%" height="50%">
-...
 <img src="https://user-images.githubusercontent.com/84846378/221660303-e87991aa-7cac-4324-b225-4223801ce290.png" width="50%" height="50%">
 
 #### Rolling Mean for MSFT/Microsoft
