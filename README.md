@@ -1,6 +1,8 @@
 # Stock-Price-Prediction-ML-Project-Python
  To train the machine using data present to have a look at the effect of the pandemic on stock prices of various companies.
 
+I made a stock price prediction system in which i used various libraries like math, Numpy, Matplotlib, Pandas, os, sklearn, keras, Ipython, seaborn, plotting, plotly, yfinance, etc to create graphs of closing and opening stock prices of different companies w.r.t time and to train the machine using data present to plot graph of actual vs predicted stock price of a particular company wrt to time, to plot functions for the adjusted close value of stocks of different companies, normalizing the dataset and viewing the high stock price companies to compare their growth over the period w.r.t each other, to have a look at the effect of the pandemic on stock prices of various companies, to compute daily returns of a specific company, to predict the adjusted close price of stocks and to plot a graph of actual vs predicted values of various companies.
+
 #### Graph of Stock Prices with Time
 
 <img src="https://user-images.githubusercontent.com/84846378/221657783-778a917d-87db-4df4-af1f-e5cc5c8e84dd.png" width="50%" height="50%">
